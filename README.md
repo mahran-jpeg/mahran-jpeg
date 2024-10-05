@@ -5,8 +5,8 @@
 
 Hi! My name is Mahran, and I am an adept frontend developer, driven by a passion for designing and developing web applications that not only showcase cutting-edge technology but also prioritize the seamless integration of aesthetic appeal and intuitive user experience. I strive to create immersive digital experiences that exceed expectations and leave a lasting impression. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-doe/)
-[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jonathandoe.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahran-h-a15666243/)
+[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](http://mahranhassan.xyz)
 
 
 ## :hammer: Here are the tools, libraries, technologies, and frameworks I've worked with:
